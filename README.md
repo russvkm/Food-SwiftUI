@@ -1,4 +1,4 @@
-Supe exciting app build with swift UI
+Super exciting app build with swift UI.
 ![Simulator Screenshot - iPhone 15 Pro - 2023-12-25 at 22 18 24](https://github.com/russvkm/Food-SwiftUI/assets/54277618/f5daa795-d3bc-43ea-b755-a46bf4740911)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-12-25 at 22 18 46](https://github.com/russvkm/Food-SwiftUI/assets/54277618/3209fffd-25ec-4631-899d-d3b20f207ea5)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-12-25 at 22 18 31](https://github.com/russvkm/Food-SwiftUI/assets/54277618/b6fc4668-5568-4fc1-9c43-d7640c7f7171)
